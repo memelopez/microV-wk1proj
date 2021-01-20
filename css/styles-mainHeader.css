@@ -1,1 +1,78 @@
-/* styles for mainHeader */
+/* styles for nav */
+
+.icons-left {
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+  align-items: center;
+}
+
+.hamburger,
+.mag-glass {
+  height: 16px;
+  width: 16px;
+  vertical-align: sub;
+}
+
+.link-spaceNcosmos {
+  font-size: 14.25px;
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+  line-height: 19px;
+}
+
+.nyt-svg {
+  display: block;
+  width: 195px;
+  height: 26px;
+  margin: 6px auto 0;
+}
+
+.centerLogo {
+  padding-top: 0;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.rButton {
+  border-radius: 3px;
+  cursor: pointer;
+  font-family: helvetica, arial, sans-serif;
+  transition: all 0.6s ease 0s;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: rgb(86, 123, 149);
+  border: 1px solid rgb(50, 104, 145);
+  color: rgb(255, 255, 255);
+  font-size: 11px;
+  line-height: 11px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 11px 12px 8px;
+  margin-right: 7px;
+}
+
+.logIn {
+  /* margin-right: 7px; */
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 200;
+  background-color: #fff;
+  border-bottom: none;
+  transition: all 0.2s ease-in-out;
+}
