@@ -1,0 +1,53 @@
+/* Styles for the lowerEST footer */
+
+.main-footer {
+  /* transform: translateY(-56px); */
+  height: 85px;
+  bottom: -241px;
+  /* position: fixed; */
+  z-index: 1000000101;
+  width: 100%;
+  border-top: 1px solid rgb(51, 51, 51);
+  transition: transform 200ms ease-out 0s;
+  background-color: rgb(255, 255, 255);
+  will-change: transform;
+}
+
+.lowerFooter {
+  height: 55px;
+  padding-bottom: 0;
+  width: 100%;
+  font-family: helvetica, arial, sans-serif;
+  border-radius: 0;
+  transition: background-color 250ms linear 0s, padding 0.15s ease-out 0s;
+  outline: none;
+  cursor: pointer;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+.textFooter {
+  padding: 0px 20px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  height: 100%;
+  max-width: 1200px;
+  margin: auto;
+  outline: aliceblue;
+
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+}
+
+.actualTextFooter {
+  font-size: 15px;
+  line-height: 17px;
+
+  margin-top: 30px;
+  /* opacity: 0;
+  animation: 0.5s ease 0s 1 normal none running animation-f8wsfj; */
+}
