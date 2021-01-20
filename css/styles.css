@@ -114,3 +114,15 @@ video {
   text-size-adjust: 100%;
   vertical-align: baseline;
 }
+
+/* article.story */
+
+.story {
+  padding-top: 40px;
+  margin: 0 auto 20px;
+
+  width: 70%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
