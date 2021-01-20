@@ -1,9 +1,9 @@
 /* styles for the story body */
+
 .articleBody{
     display: block;
     margin: auto;
     text-align: center;
-    width: 80%;
 }
 .para-1{
         height: 120px;      
@@ -26,10 +26,21 @@
     font-size: 20px;
     text-size-adjust: 100%;
     margin-bottom: 15px;
+   
     
 }
 hr{
     width: 10%;
+}
+
+.subs{
+    display: block;
+    margin: 20px;
+    padding: 0px;
+    width: 600px;
+    text-size-adjust: 100%;
+    margin-bottom: 15px;
+    
 }
 .Appre {
     display:list-item;
@@ -50,32 +61,50 @@ hr{
     text-decoration-thickness: auto;
 
 }
-.editor-container{
-    align-items: center;
-    color: rgb(51,51,51);
-    display: flex;
-    font-family: 'Times New Roman';
-    font-size: 16px;
-    margin: 0px 0px 0px 75px;
-    width: 210px;
-    -webkit-box-align: center;
 
-
-}
-.editor{
-    display: block;
-}
 .articles{
     color: rgb(0,0,0);
     cursor: pointer;
-    display: flex;
-    flex-direction: row;  
+    display: fleX; 
+    flex-direction: column; 
     height: 78px;
+    
 }
 .editor-img{
     display: inline;
     height: 75px;
     margin: 0px;
     max-width: 100%;
+    float: left;
+    
 
 }
+.editor-text{
+    display: block;
+    font-family: nyt-cheltenham-small, Georgia, 'Times New Roman';
+    font-size: 14px;
+    font-stretch: 100%;
+    margin: 13.5px 0px 13.5px 10px;
+    width: 125px;
+    float: right;
+    
+}
+.editor-container {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 0;
+    top: 1500px;
+    margin-right: 15px;
+    width: 260px;
+  }
+  aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+  }
+  
+
+ 
