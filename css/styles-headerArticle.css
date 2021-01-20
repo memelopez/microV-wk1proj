@@ -10,6 +10,11 @@
   flex-direction: column;
 }
 
+.title-mainHeader {
+  display: flex;
+  justify-content: center;
+}
+
 .h1-title {
   margin-bottom: 20px;
   width: 600px;
@@ -23,6 +28,7 @@
   font-weight: 700;
   font-style: italic;
   margin: 0 20px 20px;
+  text-align: left;
 }
 
 .social {
@@ -34,4 +40,58 @@
   margin-right: auto;
   display: flex;
   flex-shrink: 0;
+}
+
+.socialIcon-title {
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #eee;
+  border: 1px #eee solid;
+  border-radius: 100%;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+}
+
+.socialGroup {
+  color: #999;
+  display: flex;
+  flex-shrink: 0;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 17px;
+  margin-bottom: 5px;
+}
+
+.socialList {
+  padding: 0;
+}
+
+.li-socialList {
+  color: #999;
+  display: inline;
+  margin-right: 16px;
+  width: 100%;
+}
+
+.socialIcon-whatsapp {
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #eee;
+  border: 1px #eee solid;
+  border-radius: 100%;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+  background-image: url(https://img.icons8.com/pastel-glyph/64/000000/whatsapp--v2.png);
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.button-title {
+  background-color: #fff;
+}
+
+.bigIMG {
+  margin-top: 20px;
 }
