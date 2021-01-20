@@ -4,7 +4,6 @@
   /* transform: translateY(-56px); */
   height: 85px;
   bottom: -241px;
-  /* no se si poner position: fixed; */
   z-index: 1000000101;
   width: 100%;
   border-top: 1px solid rgb(51, 51, 51);
@@ -37,14 +36,12 @@
   max-width: 1200px;
   margin: auto;
   outline: aliceblue;
-  /* aqui va lo mio */
-  align-content: center;
+  align-content: center; /* aqui va lo mio */
   flex-direction: column;
 }
 
 .actualTextFooter {
   font-size: 15px;
   line-height: 17px;
-
-  margin-top: 30px;
+  margin-top: 30px; /* lo mio */
 }
