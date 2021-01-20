@@ -1,0 +1,37 @@
+/* styles for the main header of the article */
+
+.mainHeader {
+  margin-top: 3.75rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.h1-title {
+  margin-bottom: 20px;
+  width: 600px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2.5rem;
+  line-height: 3rem;
+  color: #121212;
+  font-family: georgia, "times new roman", times, serif;
+  font-weight: 700;
+  font-style: italic;
+  margin: 0 20px 20px;
+}
+
+.social {
+  border-top: 1px solid #ebebeb;
+  padding-top: 20px;
+  width: 600px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-shrink: 0;
+}
