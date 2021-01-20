@@ -4,7 +4,7 @@
   margin-top: 3.75rem;
   margin-left: auto;
   margin-right: auto;
-
+  /* va lo mio */
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -16,7 +16,6 @@
 }
 
 .h1-title {
-  margin-bottom: 20px;
   width: 600px;
   max-width: 600px;
   margin-left: auto;
@@ -27,7 +26,7 @@
   font-family: georgia, "times new roman", times, serif;
   font-weight: 700;
   font-style: italic;
-  margin: 0 20px 20px;
+  margin: 0 20px 20px 20px;
   text-align: left;
 }
 

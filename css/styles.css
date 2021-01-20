@@ -130,7 +130,7 @@ input {
 .story {
   padding-top: 40px;
   margin: 0 auto 20px;
-
+  /* aqui lo mio  */
   width: 75%;
   text-align: center;
   display: flex;
