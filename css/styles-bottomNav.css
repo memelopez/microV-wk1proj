@@ -183,12 +183,11 @@
 .ahrztl2 {
   display: inline-block;
   line-height: 20px;
-  padding: 0 10px;
   border-left: none;
   font-size: 11px;
   color: #666;
   font-family: helvetica, arial, sans-serif;
-  padding: 10px 0;
+  padding: 10px 10px;
   text-decoration: none;
   white-space: nowrap;
 }
