@@ -22,10 +22,8 @@
 
 .leftcontent > section {
   border-top: 1px solid rgb(0, 0, 0);
-  margin-left: 0;
-  margin-right: 0;
   box-sizing: border-box;
-  margin: 0 20px 2rem;
+  margin: 0 0 2rem;
 }
 
 /* NEWSLETTER section */
@@ -92,13 +90,11 @@
   position: absolute;
   right: 15px;
   top: 15px;
-  /* float: right; */
 }
 
 .plusicon {
   width: 35px;
   height: 35px;
-  /* float: right; */
 }
 
 .imgnewslet {
@@ -184,10 +180,8 @@
 .h2article {
   font-size: 1rem;
   line-height: 1.375rem;
-  padding-right: 0px;
-  padding-left: 0px;
   max-width: 851.25px;
-  padding: 17px 20px 0px;
+  padding: 17px 20px 0;
   background-color: white;
   box-sizing: border-box;
   font-family: helvetica, arial, sans-serif;
@@ -206,13 +200,13 @@
 }
 
 .cardarticle {
-  padding-left: 0px;
-  padding-right: 0px;
+  padding-left: 0;
+  padding-right: 0;
   padding-bottom: 20px;
   width: 263.75px;
   max-width: 32%;
   flex-basis: 32%;
-  padding: 0px 20px 20px;
+  padding: 0 20px 20px;
   display: flex;
   -webkit-box-flex: 1;
   flex-grow: 1;
@@ -241,14 +235,14 @@
 
 .captionarti {
   display: block;
-  font-family: georgia, "times new roman";
+  font-family: georgia, "times new roman", times, serif;
 }
 
 .txtcaption {
   font-size: 0.625rem;
   text-transform: none;
   padding-bottom: 4px;
-  margin: 3px 0px 0px;
+  margin: 3px 0 0;
   text-align: right;
   color: rgb(153, 153, 153);
   line-height: 1.23em;
@@ -306,5 +300,5 @@
 
 .cardtitle {
   border-bottom: 1px solid rgb(226, 226, 226);
-  padding: 15px 0px;
+  padding: 15px 0;
 }
