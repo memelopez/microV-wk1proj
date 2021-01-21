@@ -285,3 +285,26 @@
 #kadabra {
   display: none;
 }
+
+.rightcontent {
+  width: 25%;
+}
+
+.containsalltitles {
+  border-top: 1px solid rgb(226, 226, 226);
+  list-style: none;
+  margin-top: 15px;
+}
+
+.txttitle {
+  font-size: 1.1275rem;
+  line-height: 1.4375rem;
+  color: rgb(18, 18, 18);
+  font-family: georgia, "times new roman", times, serif;
+  font-weight: 500;
+}
+
+.cardtitle {
+  border-bottom: 1px solid rgb(226, 226, 226);
+  padding: 15px 0px;
+}
