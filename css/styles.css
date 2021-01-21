@@ -129,6 +129,22 @@ input {
   line-height: normal;
 }
 
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+main {
+  display: block;
+}
+
 /* article.story */
 
 .story {

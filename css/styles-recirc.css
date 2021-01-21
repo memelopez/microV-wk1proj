@@ -204,3 +204,84 @@
   max-width: 852px;
   padding-top: 15px;
 }
+
+.cardarticle {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  width: 263.75px;
+  max-width: 32%;
+  flex-basis: 32%;
+  padding: 0px 20px 20px;
+  display: flex;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+}
+
+.cntnarti {
+  padding: 0;
+  -webkit-box-pack: end;
+  justify-content: flex-end;
+  display: flex;
+  flex-direction: column;
+  border-bottom: none;
+}
+
+.imgcaption-article {
+  min-width: 60px;
+  width: 100%;
+  height: 100%;
+  max-width: inherit;
+}
+
+.figure-imgcap {
+  padding: 0;
+  margin: 0;
+}
+
+.captionarti {
+  display: block;
+  font-family: georgia, "times new roman";
+}
+
+.txtcaption {
+  font-size: 0.625rem;
+  text-transform: none;
+  padding-bottom: 4px;
+  margin: 3px 0px 0px;
+  text-align: right;
+  color: rgb(153, 153, 153);
+  line-height: 1.23em;
+}
+
+.lowtxtarti {
+  max-width: 550px;
+  min-width: 150px;
+  font-size: 1rem;
+  padding-right: 10px;
+  font-family: georgia, "times new roman", times, serif;
+  font-weight: 500;
+  color: rgb(51, 51, 51);
+  line-height: 1.375rem;
+  text-align: left;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+}
+
+.h3txtarti {
+  font-size: 1.125rem;
+  line-height: 1.375rem;
+}
+
+.spantxtarti {
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 500;
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+  letter-spacing: 0.3px;
+  color: rgb(153, 153, 153);
+}
+
+#kadabra {
+  display: none;
+}
