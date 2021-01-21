@@ -1,12 +1,13 @@
 /* styles for the recirculation section */
 
 .case-recirc {
-  width: 1200px;
+  width: 1300px;
   padding-left: 3%;
   padding-right: 3%;
   padding-top: 20px;
   display: flex;
-  max-width: 1200px;
+  justify-content: space-around;
+  max-width: 1300px;
   background-color: rgb(255, 255, 255);
   border-top: none;
   margin-top: 45px;
@@ -200,9 +201,6 @@
 }
 
 .cardarticle {
-  padding-left: 0;
-  padding-right: 0;
-  padding-bottom: 20px;
   width: 263.75px;
   max-width: 32%;
   flex-basis: 32%;
