@@ -28,6 +28,7 @@
   margin: 0 20px 2rem;
 }
 
+/* NEWSLETTER section */
 .headersuggested {
   display: flex;
   -webkit-box-pack: justify;
@@ -164,4 +165,42 @@
   position: relative;
   align-self: flex-start;
   margin-left: 0;
+}
+
+/* MORE IN SPACE  */
+.moreinspace {
+  max-width: 852px;
+  padding: 0px;
+}
+
+.hdrarticle {
+  display: flex;
+  border-top: 1px solid rgb(0, 0, 0);
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  background-color: rgb(255, 255, 255);
+}
+
+.h2article {
+  font-size: 1rem;
+  line-height: 1.375rem;
+  padding-right: 0px;
+  padding-left: 0px;
+  max-width: 851.25px;
+  padding: 17px 20px 0px;
+  background-color: white;
+  box-sizing: border-box;
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 700;
+}
+
+.containsallthearticles {
+  width: 100%;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  border-bottom: none;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 852px;
+  padding-top: 15px;
 }
