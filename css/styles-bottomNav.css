@@ -35,7 +35,7 @@
 
 .containsAllVertical {
   display: flex;
-  margin-top: 10px;
+  margin: 10px 0;
   min-width: 600px;
 }
 
@@ -154,6 +154,7 @@
   padding-top: 9px;
   display: flex;
   flex-direction: row;
+  justify-content: space-evenly;
 }
 
 .firstNRZTLnav {
@@ -173,11 +174,13 @@
 }
 
 .secondHRZTLnav {
+  /* display: inline-block; */
   list-style: none;
   line-height: 8px;
   margin: 0 0 35px;
   padding: 0;
   display: flex;
+  justify-content: space-around;
 }
 
 .ahrztl2 {
@@ -187,7 +190,14 @@
   font-size: 11px;
   color: #666;
   font-family: helvetica, arial, sans-serif;
-  padding: 10px 10px;
+  padding: 7px 5px;
   text-decoration: none;
   white-space: nowrap;
+}
+
+.li-2hrztlnav {
+  border-left: none;
+  display: inline-block;
+  line-height: 20px;
+  padding: 0 4px;
 }

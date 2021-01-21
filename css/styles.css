@@ -17,6 +17,10 @@ a {
   color: #333;
 }
 
+img {
+  width: 100%;
+}
+
 ol,
 ul {
   list-style: none;
@@ -123,6 +127,22 @@ input {
   border: 0;
   border: none;
   line-height: normal;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+main {
+  display: block;
 }
 
 /* article.story */
