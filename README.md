@@ -15,12 +15,11 @@ This project is a clone of a New York Times article.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://memelopez.github.io/microV-wk1proj/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**it's easy.**
 
 To get a local copy up and running follow these simple example steps.
 
