@@ -1,18 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Week 1 Project Microverse
+# Project 1 Positioning and FLoating Elements
 
-> One paragraph statement about the project.
+> Week 1 project of Microverse.
 
-![screenshot](./app_screenshot.png)
+![screenshot](img/Screen Shot - proj1.png)
 
-Additional description about the project and its features.
+This project is a clone of a New York Times article.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
@@ -39,11 +38,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Elmer Lopez**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/memelopez)
+- Twitter: [@twitterhandle](https://www.linkedin.com/in/elmer-lopez-51b187200/)
+- LinkedIn: [LinkedIn](https://twitter.com/memelopez10)
 
 👤 **Author2**
 
