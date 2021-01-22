@@ -1,7 +1,10 @@
 /* styles for the story body */
 
 .narrow {
+  max-width: 600px;
   width: 600px;
+  margin-left: calc((100% - 600px) / 2);
+  margin-right: 0;
 }
 
 .storyBody {
@@ -13,6 +16,7 @@
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
+  width: 100%;
 }
 
 .pstorybody {
@@ -172,12 +176,13 @@
 .smtxtcapvid {
   overflow: hidden;
   padding: 0;
-  position: absolute;
+  /* position: absolute; */
 }
 
 .img-story {
   margin: 2.6875rem auto;
   max-width: 720px;
+  width: auto;
 }
 
 .realIMG {
@@ -207,4 +212,125 @@
   color: #888;
   font-family: georgia, "times new roman", times, serif;
   line-height: 1.125rem;
+}
+
+.storyelement {
+  width: 100%;
+  margin: 0 auto;
+}
+.test1 {
+  background-color: midnightblue;
+  height: 20px;
+}
+
+.topmargin-bottomarti {
+  width: 600px;
+  max-width: 600px;
+  font-size: 1.1875rem;
+  line-height: 1.75rem;
+  /* margin-bottom: 1.25rem; */
+  margin: 1rem auto 0.75rem;
+}
+
+.txt-bottomarti {
+  width: 600px;
+  max-width: 600px;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  margin: 0px auto 1em;
+  color: rgb(102, 102, 102);
+}
+
+.span-bottomarti {
+  font-weight: 500;
+  display: inline;
+}
+
+.a-span-botttomarti {
+  color: rgb(102, 102, 102);
+  text-decoration: underline;
+}
+
+.btns-bottomarti {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 600px;
+  max-width: 600px;
+  margin: 1.5rem auto 2rem;
+}
+
+.leftbtn {
+  width: 330px;
+  color: rgb(153, 153, 153);
+  display: inline;
+  margin-right: 16px;
+  max-width: 600px;
+  padding: 0 1rem 0 0;
+}
+
+.btn-btomarti {
+  background-color: rgb(86, 123, 149);
+  border: 1px solid rgb(50, 104, 145);
+  border-radius: 3px;
+  color: white;
+  display: block;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  line-height: 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px 0;
+  text-transform: uppercase;
+  transition: background-color 0.6s ease 0s;
+  width: 100%;
+}
+
+.social-btmarti {
+  color: #999;
+  display: flex;
+  flex-shrink: 0;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 17px;
+  margin-bottom: 5px;
+}
+
+.socialicons-btmarti {
+  padding: 0;
+  list-style: none;
+}
+
+.fbicon {
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #eee;
+  border: 1px #eee solid;
+  border-radius: 100%;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+}
+
+.sclicon {
+  display: inline;
+}
+
+.share-btmarti {
+  display: inline;
+}
+
+.sharebtn-btmarti {
+  background: transparent;
+  display: inline-block;
+  background-color: #eee;
+  border: 1px #eee solid;
+  border-radius: 100%;
+  padding: 5px;
+  width: 27px;
+  height: 27px;
 }
