@@ -64,6 +64,8 @@
 .main-nav {
   display: flex;
   justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .navbar {
@@ -73,6 +75,9 @@
   left: 0;
   z-index: 200;
   background-color: #fff;
-  border-bottom: none;
+  border-bottom: 1px solid #e2e2e2;
   transition: all 0.2s ease-in-out;
+  height: 40px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
