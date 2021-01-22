@@ -19,6 +19,7 @@ a {
 
 img {
   width: 100%;
+  height: auto;
 }
 
 ol,
@@ -154,4 +155,9 @@ main {
   text-align: center;
   display: flex;
   justify-content: center;
+  flex-direction: column;
+}
+
+a img {
+  border: none;
 }
