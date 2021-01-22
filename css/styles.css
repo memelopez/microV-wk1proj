@@ -22,10 +22,6 @@ img {
   height: auto;
 }
 
-a img {
-  border: none;
-}
-
 ol,
 ul {
   list-style: none;
@@ -160,4 +156,8 @@ main {
   display: flex;
   justify-content: center;
   flex-direction: column;
+}
+
+a img {
+  border: none;
 }
