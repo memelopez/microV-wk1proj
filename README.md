@@ -4,7 +4,7 @@
 
 > Week 1 project of Microverse.
 
-<img src="img/Screen%20Shot%20-%20proj1.png" width="700" >
+![screenshot](img/Screen%20Shot%20-%20proj1.png)
 
 This project is a clone of a New York Times article.
 

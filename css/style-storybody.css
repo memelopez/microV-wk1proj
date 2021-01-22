@@ -2,9 +2,6 @@
 
 .narrow {
   width: 600px;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center; */
 }
 
 .storyBody {
@@ -39,7 +36,7 @@
 .line1 {
   border-bottom: 1px solid rgb(204, 204, 204);
   width: 72px;
-  margin: 0px auto 18px;
+  margin: 0 auto 18px;
 }
 
 .ainner {
@@ -49,7 +46,7 @@
 .line2 {
   border-bottom: 1px solid rgb(204, 204, 204);
   width: 72px;
-  margin: 18px auto 0px;
+  margin: 18px auto 0;
 }
 
 .apstorybody {
@@ -111,7 +108,7 @@
 
 .span-bubble {
   display: inline;
-  margin: 0px;
+  margin: 0;
   font-size: 0.875rem;
   font-weight: 700;
   font-family: helvetica, arial, sans-serif;
@@ -173,13 +170,9 @@
 }
 
 .smtxtcapvid {
-  /* clip: rect(0 0 0 0); */
-  /* height: 1px; */
-  /* margin: -1px; */
   overflow: hidden;
   padding: 0;
   position: absolute;
-  /* width: 1px; */
 }
 
 .img-story {
