@@ -44,11 +44,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://www.linkedin.com/in/elmer-lopez-51b187200/)
 - LinkedIn: [LinkedIn](https://twitter.com/memelopez10)
 
-👤 **Author2**
+👤 **Junior Fondem**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](GitHub.com/Fondem-Jr)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/Fondem_Junior)
 
 ## 🤝 Contributing
 
