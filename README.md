@@ -4,7 +4,7 @@
 
 > Week 1 project of Microverse.
 
-![screenshot](img/Screen%20Shot%20-%20proj1.png)
+![screenshot](img/ScreeShot-wk1Proj.png)
 
 This project is a clone of a New York Times article.
 
