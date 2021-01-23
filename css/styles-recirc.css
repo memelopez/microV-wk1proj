@@ -90,9 +90,6 @@
 
 .floatplus {
   background-color: rgb(255, 255, 255);
-  /* position: absolute;
-  right: 15px;
-  top: 15px; */
   float: right;
 }
 
@@ -163,7 +160,6 @@
   line-height: 1.125rem;
   letter-spacing: 0.2px;
   position: relative;
-  align-self: flex-start;
   margin-left: 0;
   align-self: baseline;
 }
