@@ -2,8 +2,9 @@
 
 .main-footer {
   /* transform: translateY(-56px); */
-  height: 85px;
-  bottom: -241px;
+  height: 45px;
+  position: fixed;
+  bottom: 0;
   z-index: 1000000101;
   width: 100%;
   border-top: 1px solid rgb(51, 51, 51);
@@ -43,5 +44,5 @@
 .actualTextFooter {
   font-size: 15px;
   line-height: 17px;
-  margin-top: 30px; /* lo mio */
+  margin-top: 12px; /* lo mio */
 }
