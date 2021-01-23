@@ -31,7 +31,7 @@
 }
 
 .centerLogo {
-  padding-top: 0;
+  padding-top: 7px;
   text-align: center;
   position: fixed;
   top: 0;
@@ -77,7 +77,7 @@
   background-color: #fff;
   border-bottom: 1px solid #e2e2e2;
   transition: all 0.2s ease-in-out;
-  height: 40px;
-  padding-top: 5px;
+  height: 45px;
+  padding-top: 7px;
   padding-bottom: 5px;
 }
