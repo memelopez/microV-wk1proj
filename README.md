@@ -17,24 +17,6 @@ This project is a clone of a New York Times article.
 
 [Live Demo Link](https://memelopez.github.io/microV-wk1proj/)
 
-## Getting Started
-
-**it's easy.**
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 ## Authors
 
 👤 **Elmer Lopez**
