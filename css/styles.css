@@ -1,5 +1,3 @@
-/* Base styles */
-
 * {
   box-sizing: border-box;
 }
@@ -146,12 +144,10 @@ main {
   display: block;
 }
 
-/* article.story */
-
 .story {
   padding-top: 40px;
   margin: 0 auto 20px;
-  width: 75%; /* aqui lo mio  */
+  width: 75%;
   text-align: center;
   display: flex;
   justify-content: center;

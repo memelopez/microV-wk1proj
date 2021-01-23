@@ -1,5 +1,3 @@
-/* styles for the bottom nav that contains the list of different navigation sites */
-
 .bottomNav {
   margin: 0 auto;
   max-width: 1200px;
@@ -174,7 +172,6 @@
 }
 
 .secondHRZTLnav {
-  /* display: inline-block; */
   list-style: none;
   line-height: 8px;
   margin: 0 0 35px;

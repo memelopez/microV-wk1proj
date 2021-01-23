@@ -1,10 +1,8 @@
-/* styles for the main header of the article */
-
 .mainHeader {
   margin-top: 3.75rem;
   margin-left: auto;
   margin-right: auto;
-  display: flex; /* va lo mio */
+  display: flex;
   justify-content: center;
   flex-direction: column;
 }

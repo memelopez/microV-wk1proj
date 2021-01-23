@@ -1,5 +1,3 @@
-/* styles for the recirculation section */
-
 .case-recirc {
   width: 1300px;
   padding-left: 3%;
@@ -27,7 +25,6 @@
   margin: 0 0 2rem;
 }
 
-/* NEWSLETTER section */
 .headersuggested {
   display: flex;
   -webkit-box-pack: justify;
@@ -164,7 +161,6 @@
   align-self: baseline;
 }
 
-/* MORE IN SPACE  */
 .moreinspace {
   max-width: 852px;
   padding: 0;

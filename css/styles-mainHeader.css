@@ -1,5 +1,3 @@
-/* styles for nav */
-
 .icons-left {
   display: flex;
   justify-content: space-between;
@@ -55,10 +53,6 @@
   text-transform: uppercase;
   padding: 11px 12px 8px;
   margin-right: 7px;
-}
-
-.logIn {
-  /* margin-right: 7px; */
 }
 
 .main-nav {

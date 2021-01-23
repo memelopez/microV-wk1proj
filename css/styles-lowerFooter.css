@@ -1,7 +1,4 @@
-/* Styles for the lowerEST footer */
-
 .main-footer {
-  /* transform: translateY(-56px); */
   height: 45px;
   position: fixed;
   bottom: 0;
@@ -37,12 +34,12 @@
   max-width: 1200px;
   margin: auto;
   outline: aliceblue;
-  align-content: center; /* aqui va lo mio */
+  align-content: center;
   flex-direction: column;
 }
 
 .actualTextFooter {
   font-size: 15px;
   line-height: 17px;
-  margin-top: 12px; /* lo mio */
+  margin-top: 12px;
 }
